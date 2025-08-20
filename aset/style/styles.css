@@ -11,6 +11,7 @@ body {
 main {
     padding: 20px;
     overflow: auto;
+    gap: 1.5rem;
 }
 
 #content {
@@ -37,6 +38,7 @@ nav a {
     font-weight: 400;
     text-decoration: none;
     color: white;
+    padding: 10px;
 }
 
 nav a:hover {
@@ -46,6 +48,7 @@ nav a:hover {
 nav ul {
     padding-inline: 4rem;
     display: flex;
+    gap: 2rem;
 }
 
 .Profile header {
